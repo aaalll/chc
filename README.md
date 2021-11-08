@@ -1,8 +1,9 @@
 ## Description
 
-Client is available under http://localhost:80
+Client is available under http://localhost:3000
 
 ## Installation
+
 Make sure you have Docker and docker compose installed on your pc.
 
 ```bash
